@@ -6,9 +6,80 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Creating+Modern+Web+Applications;Problem+Solver;Always+Learning+and+Improving&width=500&height=45">
 </p>
 
-<h3>About Me</h3>
+<h2>About Me</h2>
 <p>I am a Full Stack Developer passionate about building scalable and efficient web applications.  
 I enjoy solving complex problems and turning ideas into practical digital solutions.</p>
 
-<h3>Tech Stack</h3>
-<p>[<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode" />](https://camo.githubusercontent.com/b449f10e4a9af27bbe5db205b455a8f1a80d1c71f816b094bcf998c252627fec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465)</p>
+<h2>Tech Stack</h2>
+
+<h3>Languages</h3>
+<p>
+<a href="https://www.cprogramming.com/">
+<img src="https://skillicons.dev/icons?i=c" />
+</a>
+<a href="https://cplusplus.com/doc/">
+<img src="https://skillicons.dev/icons?i=cpp" />
+</a>
+<a href="https://docs.oracle.com/en/java/">
+<img src="https://skillicons.dev/icons?i=java" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" />
+</a>
+</p>
+
+<h3>Frameworks & Libraries</h3>
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" />
+</a>
+<a href="https://nodejs.org/en/docs">
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
+<a href="https://expressjs.com/">
+<img src="https://skillicons.dev/icons?i=express" />
+</a>
+<a href="https://tailwindcss.com/docs">
+<img src="https://skillicons.dev/icons?i=tailwind" />
+</a>
+<a href="https://docs.oracle.com/javase/tutorial/uiswing/">
+<img src="https://img.shields.io/badge/Java%20Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</a>
+</p>
+
+<h3>Databases</h3>
+<p>
+<a href="https://www.mongodb.com/docs/">
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</a>
+<a href="https://firebase.google.com/docs">
+<img src="https://skillicons.dev/icons?i=firebase" />
+</a>
+<a href="https://dev.mysql.com/doc/">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+</p>
+
+<h3>IDEs & Tools</h3>
+<p>
+<a href="https://code.visualstudio.com/docs">
+<img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+<a href="https://developer.android.com/studio">
+<img src="https://skillicons.dev/icons?i=androidstudio" />
+</a>
+</p>
+
+<h3>Design</h3>
+<a href="https://www.figma.com/">
+<img src="https://skillicons.dev/icons?i=figma" />
+</a>
+<a href="https://www.canva.com/">
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</a>
+</p>
