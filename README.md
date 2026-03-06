@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Nikhil Jaisinghani</h1>
+<h2>Hi, I'm Nikhil Jaisinghani</h2>
 
 <h3>Full Stack Developer | Passionate About Building Efficient & Scalable Digital Solutions</h3>
 
