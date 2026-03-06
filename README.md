@@ -76,11 +76,11 @@ I enjoy solving complex problems and turning ideas into practical digital soluti
 </p>
 
 <h3>Design</h3>
-<p>
-<a href="https://www.figma.com/">
-<img src="https://skillicons.dev/icons?i=figma" />
+<p align="left">
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=figma" height="50"/>
 </a>
-<a href="https://www.canva.com/">
-<img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" width="48"/>
+<a href="https://www.canva.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/canva/00C4CC" height="50"/>
 </a>
 </p>
