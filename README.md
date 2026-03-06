@@ -85,3 +85,17 @@ I enjoy solving complex problems and turning ideas into practical digital soluti
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </a>
 </p>
+
+
+<h2>Connect With Me</h2>
+<p>
+<a href="https://github.com/JaisinghaniNikhil">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/-jaisinghani-nikhil/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:nikhiljaisinghani30@gmail.com@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
