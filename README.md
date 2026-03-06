@@ -1,4 +1,7 @@
 <h2>Hi, I'm Nikhil Jaisinghani</h2>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=github.com/JaisinghaniNikhil&style=for-the-badge" />
+</p>
 
 <h3>Full Stack Developer | Passionate About Building Efficient & Scalable Digital Solutions</h3>
 
