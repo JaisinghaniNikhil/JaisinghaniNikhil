@@ -15,72 +15,73 @@ I enjoy solving complex problems and turning ideas into practical digital soluti
 <h3>Languages</h3>
 <p>
 <a href="https://www.cprogramming.com/">
-<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </a>
 <a href="https://cplusplus.com/doc/">
-<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </a>
 <a href="https://docs.oracle.com/en/java/">
-<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </a>
 </p>
 
 <h3>Frameworks & Libraries</h3>
+<p>
 <a href="https://react.dev/">
-<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
 <a href="https://nodejs.org/en/docs">
-<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </a>
 <a href="https://expressjs.com/">
-<img src="https://skillicons.dev/icons?i=express" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </a>
 <a href="https://tailwindcss.com/docs">
-<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </a>
 <a href="https://docs.oracle.com/javase/tutorial/uiswing/">
-<img src="https://img.shields.io/badge/Java%20Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Java%20Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
 </p>
 
 <h3>Databases</h3>
 <p>
 <a href="https://www.mongodb.com/docs/">
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </a>
 <a href="https://firebase.google.com/docs">
-<img src="https://skillicons.dev/icons?i=firebase" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </a>
 <a href="https://dev.mysql.com/doc/">
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 </p>
 
 <h3>IDEs & Tools</h3>
 <p>
 <a href="https://code.visualstudio.com/docs">
-<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </a>
 <a href="https://developer.android.com/studio">
-<img src="https://skillicons.dev/icons?i=androidstudio" />
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 </a>
 </p>
 
 <h3>Design</h3>
 <p>
 <a href="https://www.figma.com/">
-<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </a>
 <a href="https://www.canva.com/">
-<img src="https://skillicons.dev/icons?i=canva" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </a>
 </p>
