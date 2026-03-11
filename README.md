@@ -45,6 +45,9 @@ I enjoy solving complex problems and turning ideas into practical digital soluti
 <a href="https://expressjs.com/">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </a>
+<a href="https://nextjs.com/">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next&logoColor=white"/>
+</a>
 <a href="https://tailwindcss.com/docs">
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </a>
